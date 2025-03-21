@@ -1,3 +1,5 @@
+#Solicite um número inteiro maior que 1 e verifique se ele é primo.
+
 n = int(input("Diga um numero inteiro maior que 1: "))
 
 primo = True
