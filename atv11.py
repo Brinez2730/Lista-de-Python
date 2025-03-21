@@ -1,3 +1,5 @@
+#Crie um sistema de login que não permite que o nome de usuário e a senha sejam iguais.
+
 user = input("Informe seu login: ")
 senha = input("Informe sua senha: ")
 
