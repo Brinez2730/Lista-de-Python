@@ -9,7 +9,7 @@ num_anterior = anterior * anterior
 posterior = numero + 2
 num_posterior = posterior * posterior
 
-dif_anterior =  - numero 
+dif_anterior = num_anterior - numero 
 dif_posterior = num_posterior - numero 
 
 print(f"Diferenca do quadrado do anterior: {dif_anterior}.")
